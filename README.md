@@ -1,6 +1,6 @@
 # PC Selector
 
-Tienda de componentes PC con builder inteligente, asistente IA y pagos reales con Stripe.
+Tienda de componentes PC con builder inteligente, asistente IA y pagos reales con Stripe (https://stripe.com/es-us/payments).
 
 ---
 
